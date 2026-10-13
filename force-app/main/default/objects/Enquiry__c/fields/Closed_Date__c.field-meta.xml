@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Closed_Date__c</fullName>
+    <description>records the date on which the enquiry is markd as close</description>
+    <inlineHelpText>automatically populated when the enquiry status gets changed to close</inlineHelpText>
+    <label>Closed Date</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>
