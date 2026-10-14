@@ -159,7 +159,25 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Enquiries</pluralLabel>
+    <profileSearchLayouts>
+        <fields>NAME</fields>
+        <fields>Subject__c</fields>
+        <fields>Enquiry_Type__c</fields>
+        <fields>Status__c</fields>
+        <fields>Priority__c</fields>
+        <fields>OWNER.FIRST_NAME</fields>
+        <profileName>SparkNest Sales Rep</profileName>
+    </profileSearchLayouts>
+    <profileSearchLayouts>
+        <fields>NAME</fields>
+        <fields>Subject__c</fields>
+        <fields>Status__c</fields>
+        <fields>Enquiry_Type__c</fields>
+        <fields>Priority__c</fields>
+        <fields>OWNER.FIRST_NAME</fields>
+        <profileName>SparkNest Support Agent</profileName>
+    </profileSearchLayouts>
     <searchLayouts></searchLayouts>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>Private</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>

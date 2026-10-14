@@ -1,0 +1,13 @@
+warning: in the working copy of 'force-app/main/default/layouts/Product2-Product Layout.layout-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/objects/Enquiry__c/Enquiry__c.object-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Admin.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Analytics Cloud Integration User.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Analytics Cloud Security User.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Anypoint Integration.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Authenticated Website.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/B2B Reordering Portal Buyer Profile.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Chatter External User.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Chatter Free User.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Chatter Moderator User.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/ContractManager.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'force-app/main/default/profiles/Cross Org Data Proxy User.profile-meta.xml', LF will be replaced by CRLF the next time Git touches it
