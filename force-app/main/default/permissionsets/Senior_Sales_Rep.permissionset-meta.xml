@@ -175,6 +175,10 @@
         <field>Case.Type</field>
         <readable>true</readable>
     </fieldPermissions>
+    <flowAccesses>
+        <enabled>true</enabled>
+        <flow>Convert_Enquiry_to_Case</flow>
+    </flowAccesses>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Senior Sales Rep</label>
     <objectPermissions>
